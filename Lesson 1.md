@@ -33,8 +33,10 @@ Some elements do not have closing a closing tag. These include:
 `<br /> or <img/>`
 
 
-### Creating an HTML File
+## Creating an HTML File
 
 Note, naming the file that contains the homepage of the website should be named ìndex.html`. This is because web servers by default will look for this naming convention.
 
 
+## Head Element
+Th `<head>`element is where the important meta-info about the webpages, and for the webpages to render properly. _Do Not_ use any element that displays content on the webpage.
