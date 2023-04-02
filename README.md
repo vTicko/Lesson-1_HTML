@@ -1,6 +1,6 @@
 # Lesson-1_HTML
 
-## The Odin project Leson in HTML
+## The Odin project Lesson in HTML
 
 ### Elements & Tags
 
