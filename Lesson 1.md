@@ -40,3 +40,25 @@ Note, naming the file that contains the homepage of the website should be named 
 
 ## Head Element
 Th `<head>`element is where the important meta-info about the webpages, and for the webpages to render properly. _Do Not_ use any element that displays content on the webpage.
+
+### Charset Meta Element
+
+Always have the meta tag for the charset encoding of the webpage in the head element: `<meta charset="utf-8">`. This is important to ensure the webpage will display special symbos and characters form multiple languages.
+
+
+#### Titles
+
+Title element is `<title> My first Webpage </title>`
+
+## Body element
+
+The `<body>` element is required to complete the boilerplate. It's where all the content that will be displayed to users will go, like
+
+- text
+- images
+- lists
+- links
+
+etc.
+
+
